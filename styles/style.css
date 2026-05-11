@@ -143,7 +143,6 @@ ol {
 }
 
 .search-form__textfield::placeholder {
-  font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   font-weight: 400;
   color: rgb(255 255 255 / 0.7);
@@ -203,7 +202,6 @@ ol {
   width: 100%;
   gap: 26px;
 }
-
 
 .title {
   font-weight: 700;
@@ -268,6 +266,7 @@ ol {
 }
 
 .content__video-card-title {
+  width: 196px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 30px;
@@ -287,6 +286,6 @@ ol {
   display: -webkit-box;
   font-size: 18px;
   font-weight: 400;
-  line-height: 16.2px;
+  line-height: 98%;
   line-clamp: 2;
 }
