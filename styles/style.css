@@ -143,8 +143,6 @@ ol {
 }
 
 .search-form__textfield::placeholder {
-  font-size: 18px;
-  font-weight: 400;
   color: rgb(255 255 255 / 0.7);
 }
 
